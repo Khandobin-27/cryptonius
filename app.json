@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "CryptoTracker",
-    "slug": "CryptoTracker",
+    "name": "Cryptonius",
+    "slug": "cryptonius",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/crypto_logo_4.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Simple crypto currency tracker with the visualized chart"
   }
 }
